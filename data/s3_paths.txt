@@ -1,0 +1,2 @@
+s3://retail.sales.lp/processed/
+s3://retail.sales.lp/output/retail-xgboost-training-copy-06-11/output/model.tar.gz
